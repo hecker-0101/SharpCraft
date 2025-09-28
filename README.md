@@ -3,13 +3,7 @@ Markdown
 
 # ⚒️ SharpCraft
 _The MinGW‑Style Forge of C#_
- ____  _                         ____              __ _   
- / ___|| |__   __ _ _ __ _ __    / ___|_ __ __ _   / _| |_ 
- \___ \| '_ \ / _` | '__| '_ \  | |   | '__/ _` | | |_| __|
-  ___) | | | | (_| | |  | |_) | | |___| | | (_| | |  _| |_ 
- |____/|_| |_|\__,_|_|  | .__/   \____|_|  \__,_| |_|  \__|
-                        |_|                                
-
+                   
 text
 
 
@@ -106,3 +100,4 @@ Inspired by GCC & MinGW.
 Made by Sam M., 2025.
 
 ⚒️ “Forging C# programs like swords, one .exe at a time.”
+
