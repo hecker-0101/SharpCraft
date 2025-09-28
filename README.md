@@ -103,7 +103,7 @@ Each compilation produces:
 ### v1.4.1
 - ✅ IL executable forging (`.exe` + `.runtimeconfig.json`)  
 - ✅ Installable compiler with PATH integration  
-- ✅ Sexy ASCII branding  
+- ✅ Cool ASCII branding  
 
 ### v2.0 (future)
 - Optional NativeAOT integration (true standalone `.exe`) once the MSVC/Installer headaches are resolved  
@@ -131,5 +131,6 @@ Each compilation produces:
 ---
 
 > ⚒️ *“Forging C# programs like swords, one .exe at a time.”*
+
 
 
