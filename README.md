@@ -1,4 +1,3 @@
-```markdown
 # 📜 README.md — SharpCraft v1.4.1
 
 # ⚒️ SharpCraft  
@@ -132,4 +131,4 @@ Each compilation produces:
 ---
 
 > ⚒️ *“Forging C# programs like swords, one .exe at a time.”*
-```
+
